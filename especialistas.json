@@ -1,0 +1,14 @@
+[
+    {
+        "nombre" : "Juan Perez",
+        "cargo" : "Clinico"
+    },
+    {
+        "nombre" : "Roberto Gomez",
+        "cargo" : "Odontologo"
+    },
+    {
+        "nombre" : "Tito Florez",
+        "cargo" : "Cardiologo"
+    }
+]
